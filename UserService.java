@@ -1,3 +1,3 @@
 public String getMessage() {
-    return "Hello User";
+    return "Hello Admin";
 }
